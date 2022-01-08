@@ -49,7 +49,7 @@ Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions
 <div align="center">
     <img alt="mediapipeLogo" src="images/hand_landmarks.png" height="200 x" />
     <img alt="mediapipeLogo" src="images/hand_crops.png" height="360 x" weight ="640 x" />
-    <img alt="output" src="images/hand.gif" height="150 x" weight ="75 x" />
+    <img alt="output" src="images/hand.gif" height="280 x" weight ="140 x" />
     
 </div>
 
