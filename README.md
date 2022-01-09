@@ -5,7 +5,7 @@
 + mediapipe
 + numpy
 + win32api
-+ pyautogui
+
 
 ```bash
 pip install -r requirements.txt
