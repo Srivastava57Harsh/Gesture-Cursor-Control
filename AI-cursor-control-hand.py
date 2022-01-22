@@ -5,7 +5,6 @@ from mediapipe.framework.formats import landmark_pb2
 import time
 from math import sqrt
 import win32api
-import pyautogui
 import math
 
 # solution APIs
