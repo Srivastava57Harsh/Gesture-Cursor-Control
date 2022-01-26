@@ -97,7 +97,7 @@ if results.multi_hand_landmarks != None:
 ```
 
 ***
-Normalising Landmarks
+Normalising Landmarks (converting decimal value to pixels) 
 ```
 normalizedLandmark = handLandmarks.landmark[point]
 pixelCoordinatesLandmark = mp_drawing._normalized_to_pixel_coordinates(normalizedLandmark.x, normalizedLandmark.y, imageWidth, imageHeight)
